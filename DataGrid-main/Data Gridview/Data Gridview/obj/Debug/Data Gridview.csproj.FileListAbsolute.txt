@@ -1,0 +1,10 @@
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\bin\Debug\Data Gridview.exe.config
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\bin\Debug\Data Gridview.exe
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\bin\Debug\Data Gridview.pdb
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data Gridview.csprojAssemblyReference.cache
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data_Gridview.Form1.resources
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data_Gridview.Properties.Resources.resources
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data Gridview.csproj.GenerateResource.cache
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data Gridview.csproj.CoreCompileInputs.cache
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data Gridview.exe
+D:\Prejects\Data Gridview\Data Gridview\Data Gridview\obj\Debug\Data Gridview.pdb
